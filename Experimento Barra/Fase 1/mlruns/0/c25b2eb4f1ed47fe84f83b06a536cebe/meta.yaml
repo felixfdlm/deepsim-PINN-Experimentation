@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Felix/Desktop/TFM/Experimento%20Barra/Fase%201/mlruns/0/c25b2eb4f1ed47fe84f83b06a536cebe/artifacts
+end_time: 1627937020331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c25b2eb4f1ed47fe84f83b06a536cebe
+run_uuid: c25b2eb4f1ed47fe84f83b06a536cebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627936536499
+status: 3
+tags: []
+user_id: Felix
